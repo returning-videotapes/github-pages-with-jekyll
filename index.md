@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+"Do not cum!"
 ---
 
 I'm glad you are here. I plan to talk about ...
